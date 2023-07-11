@@ -33,3 +33,11 @@ streamlit run app.py
 ```
 
 5. Access the web app in your browser at-  http://localhost:8501.
+
+![web app desktop](https://github.com/kumarvidyasagar19/TMDB-movie-recommendation-system/assets/107400026/9db51774-4b70-4668-9774-74b02628112b)
+
+## Usage
+Once the Streamlit app is running, you can input the name of a movie in the provided text box. The system will generate 5 movie recommendations based on the input movie's features and similarities to other movies in the dataset. The recommendations will be displayed on the web app along with their respective details such as title, genre, and rating.
+
+### Contributors
+* Vidyasagar Kumar: kvidya.ece@email.com
